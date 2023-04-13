@@ -1,1 +1,1 @@
-# BeBetter.com
+# BeBetter
